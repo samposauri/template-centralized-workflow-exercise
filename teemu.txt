@@ -1,0 +1,3 @@
+If you want git log etc. prints to open to terminal and not in separate program (more/less) you can change it for example to 'cat' with:
+ git config core.pager cat for currrent repo or
+ git config --global core.pager cat for all repos
