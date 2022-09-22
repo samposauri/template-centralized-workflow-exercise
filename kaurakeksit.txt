@@ -1,0 +1,16 @@
+cat ../kaurakeksiresepti/ingredients.txt 
+2 desia kaurahiutaleita
+vajaa 1 desi sokeria
+1 ruokalusikallinen jauhoja
+1 teelusikallinen leivinjauhoja
+50g rypsiöljyä
+1 kananmuna
+
+cat ../kaurakeksiresepti/instruction.txt 
+sekoita kuivat aineet
+sekoira joukkoon rypsiöljy
+lisää muna
+sekoita hyvin
+paperilla peitetylle pellille noin ruokalusikallisia
+paista kunnes reunat ruskeita 225C (7min?)
+nauti 
